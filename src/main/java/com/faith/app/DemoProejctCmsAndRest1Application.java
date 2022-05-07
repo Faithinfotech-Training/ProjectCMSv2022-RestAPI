@@ -9,6 +9,7 @@ public class DemoProejctCmsAndRest1Application {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoProejctCmsAndRest1Application.class, args);
 		System.out.println("After generated Personal Access WenToken");
+		System.out.println("Changes from Sanjay");
 	}
 
 }
